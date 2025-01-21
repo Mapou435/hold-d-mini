@@ -9,8 +9,14 @@ body{
     justify-items: center;
     align-items: center;
     flex-direction: column;
+
 }
 p{
     background-color: bisque;
     font-size: large;
+    margin: 10px;
+}
+
+footer{
+margin-top: 70vh;  
 }
