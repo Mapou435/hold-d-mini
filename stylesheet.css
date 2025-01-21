@@ -23,4 +23,9 @@ margin-top: 70vh;
 
 header{
     background-color: beige;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 8vh;
 }
