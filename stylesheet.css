@@ -9,3 +9,8 @@ body{
     justify-items: center;
     align-items: center;
 }
+
+p{
+    background-color: bisque;
+    font-size: large;
+}
